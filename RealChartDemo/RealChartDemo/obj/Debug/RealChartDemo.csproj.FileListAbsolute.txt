@@ -1,0 +1,8 @@
+D:\陈风龙\RealChartDemo\RealChartDemo\bin\Debug\RealChartDemo.exe.config
+D:\陈风龙\RealChartDemo\RealChartDemo\bin\Debug\RealChartDemo.exe
+D:\陈风龙\RealChartDemo\RealChartDemo\bin\Debug\RealChartDemo.pdb
+D:\陈风龙\RealChartDemo\RealChartDemo\obj\Debug\RealChartDemo.Form1.resources
+D:\陈风龙\RealChartDemo\RealChartDemo\obj\Debug\RealChartDemo.Properties.Resources.resources
+D:\陈风龙\RealChartDemo\RealChartDemo\obj\Debug\RealChartDemo.csproj.GenerateResource.Cache
+D:\陈风龙\RealChartDemo\RealChartDemo\obj\Debug\RealChartDemo.exe
+D:\陈风龙\RealChartDemo\RealChartDemo\obj\Debug\RealChartDemo.pdb
